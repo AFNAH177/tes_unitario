@@ -1,0 +1,2 @@
+entrar y ejecutar 
+listo
